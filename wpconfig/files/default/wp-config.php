@@ -14,8 +14,8 @@
  * @package WordPress
  */
 define('WP_REDIS_HOST', 'wordpress.uc1k7r.0001.usw2.cache.amazonaws.com');
-define('WP_HOME','http://wordpress-1940433797.eu-west-1.elb.amazonaws.com');
-define('WP_SITEURL','http://wordpress-1940433797.eu-west-1.elb.amazonaws.com');
+define('WP_HOME','http://wordpress-999145607.us-west-2.elb.amazonaws.com');
+define('WP_SITEURL','http://wordpress-999145607.us-west-2.elb.amazonaws.com');
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'wordpress');
@@ -45,7 +45,10 @@ define('NONCE_KEY',        '[y?66258:O|W|~Arbf5Wer&81&5 DB1`E (+y0w5|bM]<+s|h:cy
 define('AUTH_SALT',        '?aET{_yN/|;P`MzIeWL)>:l))b~Jk8ab@cmYynot.btnj q#8[F1V,|]oLKgCrFj');
 define('SECURE_AUTH_SALT', 'Ji+-*#.WXLbmybQq^f`hocC$bAk=-F1D/{9j5S;zrwe(~V}tFt:lY1OF/pE7+5n-');
 define('LOGGED_IN_SALT',   'Fw:=&1BSmCynL,sn7&eu|kAX@E+cjf|]pY1X3,g.%k_{3bU1&&44+;*6z+<v2n~3');
-define('NONCE_SALT',       '|u)>3cEd@/1]/[u/TQH.MhuGDEfL)V_yr$P+$KBdEoS/nQmPX{m^nuxEF/=t+@Ah');/**#@-*/
+define('NONCE_SALT',       '|u)>3cEd@/1]/[u/TQH.MhuGDEfL)V_yr$P+$KBdEoS/nQmPX{m^nuxEF/=t+@Ah');
+
+
+/**#@-*/
 /**
  * WordPress Database Table prefix.
  *
